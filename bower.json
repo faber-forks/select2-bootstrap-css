@@ -10,7 +10,7 @@
     "components"
   ],
   "dependencies": {
-    "select2": "^3.3.2"
+    "select2": "^4.0.3"
   },
   "devDependencies": {
     "bootstrap": "~2.3.2",
