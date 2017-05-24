@@ -1,6 +1,6 @@
 {
   "name": "select2-bootstrap-css",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "main": [
     "select2-bootstrap.css"
   ],
@@ -10,7 +10,7 @@
     "components"
   ],
   "dependencies": {
-    "select2": "^3.3.2"
+    "select2": "^4.0.3"
   },
   "devDependencies": {
     "bootstrap": "~3.3.0",
